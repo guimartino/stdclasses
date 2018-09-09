@@ -4,7 +4,7 @@ setup(
     name='stdclasses',
     description='Ia to help',
     long_description='Ia to help students',
-    version='0.0.11',
+    version='0.0.12',
     url='https://github.com/guimartino/stdclasses',
     author='Guilherme Martino',
     author_email='gui.martino@hotmail.com',
@@ -21,3 +21,7 @@ setup(
 
 # rm -rf ~/Library/Caches/pip
 # python setup.py sdist bdist_wheel
+# git add .
+# git commit -m "version"
+# git push origin master
+# python -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
