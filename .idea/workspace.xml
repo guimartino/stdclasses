@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0655969d-a0c2-4670-8a9d-9f6af4c1eebc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.5-py2-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.5.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.6.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/dist/stdclasses-0.0.6.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.7.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/dist/stdclasses-0.0.7.tar.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,14 +40,14 @@
         <counts>
           <entry key="Python Console" value="577" />
           <entry key="dummy" value="17" />
-          <entry key="py" value="605" />
+          <entry key="py" value="606" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="1182" />
+          <entry key="Python" value="1183" />
         </counts>
       </usages-collector>
     </session>
