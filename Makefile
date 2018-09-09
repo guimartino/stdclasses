@@ -1,4 +1,6 @@
+version = 0.0.18
 clean:
+	@rm -rf ~/Library/Caches/pip
 	@find . -name "*.pyc" | xargs rm -rf
 	@find . -name "*.pyo" | xargs rm -rf
 	@find . -name "*.log" | xargs rm -rf
@@ -10,7 +12,12 @@ clean:
 	@rm -f *.log
 
 upload:
-	twine upload dist/*
+	python -m twine upload dist/*
 
 generate-wheel:
 	python setup.py bdist_wheel
+
+commit:
+	git add .
+	git commit -m "$(version)"
+	git push origin master
