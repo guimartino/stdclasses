@@ -4,7 +4,7 @@ setup(
     name='stdclasses',
     description='Ia to help',
     long_description='Ia to help students',
-    version='0.0.10',
+    version='0.0.11',
     url='https://github.com/guimartino/stdclasses',
     author='Guilherme Martino',
     author_email='gui.martino@hotmail.com',
@@ -18,3 +18,6 @@ setup(
     packages=['stdclasses'],
     install_requires=['pandas>=0.23.4']
 )
+
+# rm -rf ~/Library/Caches/pip
+# python setup.py sdist bdist_wheel
