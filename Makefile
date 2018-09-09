@@ -27,4 +27,4 @@ all:
 	make generate-wheel
 	make upload
 	make clean
-	make commit "$(v)"
+	make commit v=$(v)
