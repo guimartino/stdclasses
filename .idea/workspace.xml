@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0655969d-a0c2-4670-8a9d-9f6af4c1eebc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.22-py2-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.23-py2-none-any.whl" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stdclasses.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/stdclasses.egg-info/PKG-INFO" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +42,14 @@
           <entry key="Makefile" value="214" />
           <entry key="Python Console" value="880" />
           <entry key="dummy" value="17" />
-          <entry key="py" value="987" />
+          <entry key="py" value="991" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="236" />
-          <entry key="Python" value="1867" />
+          <entry key="Python" value="1871" />
         </counts>
       </usages-collector>
     </session>
