@@ -1,4 +1,4 @@
-version = 0.0.18
+v = DEFAULT
 clean:
 	@rm -rf ~/Library/Caches/pip
 	@find . -name "*.pyc" | xargs rm -rf
@@ -19,5 +19,12 @@ generate-wheel:
 
 commit:
 	git add .
-	git commit -m "$(version)"
+	git commit -m "$(v)"
 	git push origin master
+
+all:
+	make clean
+	make generate-wheel
+	make upload
+	make clean
+	make commit "$(v)"

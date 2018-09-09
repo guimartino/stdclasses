@@ -2,9 +2,9 @@ from setuptools import setup
 
 setup(
     name='stdclasses',
-    description='Ia to help',
-    long_description='Ia to help students',
-    version='0.0.19',
+    description='Classes to help',
+    long_description='Classes to make work easier',
+    version='0.0.22',
     url='https://github.com/guimartino/stdclasses',
     author='Guilherme Martino',
     author_email='gui.martino@hotmail.com',

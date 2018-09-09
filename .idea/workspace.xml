@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0655969d-a0c2-4670-8a9d-9f6af4c1eebc" name="Default Changelist" comment="" />
+    <list default="true" id="0655969d-a0c2-4670-8a9d-9f6af4c1eebc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.13-py2-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.14-py2-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.15-py2-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.16-py2-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/stdclasses-0.0.17-py2-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stdclasses.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/stdclasses.egg-info/PKG-INFO" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +44,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Makefile" value="128" />
+          <entry key="Makefile" value="207" />
           <entry key="Python Console" value="880" />
           <entry key="dummy" value="17" />
-          <entry key="py" value="937" />
+          <entry key="py" value="985" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="150" />
-          <entry key="Python" value="1817" />
+          <entry key="PLAIN_TEXT" value="229" />
+          <entry key="Python" value="1865" />
         </counts>
       </usages-collector>
     </session>
@@ -78,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Makefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="-114">
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -120,8 +130,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="75">
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -230,11 +240,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" sideWeight="0.29268292" side_tool="true" visible="true" weight="0.24945612" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70731705" visible="true" weight="0.24945612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.70731705" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" sideWeight="0.49746192" weight="0.32986626" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49891225" visible="true" weight="0.32986626" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49891225" visible="true" weight="0.32986626" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5025381" side_tool="true" weight="0.32986626" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -346,15 +356,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="-114">
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="75">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>
