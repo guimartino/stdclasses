@@ -4,7 +4,7 @@ setup(
     name='stdclasses',
     description='Classes to help',
     long_description='Classes to make work easier',
-    version='0.0.22',
+    version='0.0.23',
     url='https://github.com/guimartino/stdclasses',
     author='Guilherme Martino',
     author_email='gui.martino@hotmail.com',

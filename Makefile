@@ -1,4 +1,4 @@
-v = DEFAULT
+v = 0000
 clean:
 	@rm -rf ~/Library/Caches/pip
 	@find . -name "*.pyc" | xargs rm -rf
