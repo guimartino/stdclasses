@@ -1,3 +1,3 @@
 class EnviarEmail:
-    def teste(self):
-        print "testeee"
+    def teste(self, teste):
+        print teste
